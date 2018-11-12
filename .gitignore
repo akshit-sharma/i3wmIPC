@@ -1,0 +1,5 @@
+[b|B]uild
+*.swp
+.ycm_extra_conf.py
+.color_coded
+compile_commands.json
